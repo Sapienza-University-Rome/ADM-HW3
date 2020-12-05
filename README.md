@@ -17,7 +17,7 @@ In this repository you can find the next folders/files:
 
 
 
-#### 1. `ADM_HM3_.ipynb` file
+#### 1. `main.ipynb` file
 
 > This file contains the solution to all the 5 questions (and its corresponding literals) required for the activity: Which book would you recomend?.
 
